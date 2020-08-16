@@ -4,14 +4,15 @@
 
 welcome to  **[My Blog](xuexigithub.cn)** or **[Old One](www.githublearn.top)**
 
-*Any Message to improve my blog would be helpful!*
+*Any Messages to improve my blog would be helpful!*
 
 ### Contact :
 
 *phone_number:  **13829970373** (Only Message would be accepted!! for Emergencies)*
 
-Email:<br>
-**liuwenqing1118@qq.com(Often used)**
+### Email :
+
+**liuwenqing1118@qq.com(Often used)**<br>
 or <br>
 lovewyqforever@gmail.com 
 
