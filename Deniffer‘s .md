@@ -53,3 +53,5 @@ abbrlink: 38496b88
 [typecho 更换主题 插件](https://www.boke8.net/typecho-themes-plugins-install.html)
 
 [香港轻量申请](https://www.tengxunyunyhw.com/lighthouse-hk-singapore-apply.html)
+
+[VS code Tutorial](https://vscode.cool/)
