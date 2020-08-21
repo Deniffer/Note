@@ -55,3 +55,4 @@ abbrlink: 38496b88
 [香港轻量申请](https://www.tengxunyunyhw.com/lighthouse-hk-singapore-apply.html)
 
 [VS code Tutorial](https://vscode.cool/)
+[typecho 的一些插件](http://docs.typecho.org/plugins)
