@@ -56,3 +56,7 @@ abbrlink: 38496b88
 
 [VS code Tutorial](https://vscode.cool/)
 [typecho 的一些插件](http://docs.typecho.org/plugins)
+
+[Picgo错误解决](https://gitee.com/mirrors/PicGo/blob/master/FAQ.md)
+
+[Picgo+阿里云oss配置](https://zhuanlan.zhihu.com/p/104152479)
