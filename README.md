@@ -1,3 +1,6 @@
+---
+abbrlink: 77cd4175
+---
 # Note
 
 ### Record the note from CS and Mathmatics

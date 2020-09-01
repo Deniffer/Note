@@ -1,3 +1,6 @@
+---
+abbrlink: 361c1e0f
+---
 ## GitHub && Git Usage
 
 git restore (return to last edit)
