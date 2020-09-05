@@ -66,3 +66,11 @@ abbrlink: 38496b88
 [CDN加速问题](https://www.wpzhiku.com/wordpress-wang-zhan-shi-yong-cloudflare-hou-ti-shi-jiang-nin-chong-ding-xiang-de-ci-shu-guo-duo-de-yuan-yin-ji-jie-jue-ban-fa/)
 
 [latexstudio intro](https://www.jianshu.com/p/3e842d67ada2)
+
+[handsome魔改](www.feiyubk.com)
+[百度网盘提速](https://www.feiyubk.com/archives/21.html)
+[git clone 速度慢](https://www.feiyubk.com/archives/17.html)
+
+[youtube-dl](https://www.zcfy.cc/article/how-to-download-videos-using-youtube-dl-in-linux)
+
+[handsome随机图片更换](https://www.codenong.com/cs106959084/)
