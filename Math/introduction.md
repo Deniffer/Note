@@ -1,3 +1,6 @@
+---
+abbrlink: '38410916'
+---
 ### 如何利用picgo+vscode+markdown+latex 来快速记数学笔记
 
 #### vscode 编辑器
