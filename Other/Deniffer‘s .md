@@ -74,3 +74,5 @@ abbrlink: 38496b88
 [youtube-dl](https://www.zcfy.cc/article/how-to-download-videos-using-youtube-dl-in-linux)
 
 [handsome随机图片更换](https://www.codenong.com/cs106959084/)
+
+[emby](https://dxz.plus/posts/emby/)
