@@ -29,7 +29,7 @@ date: 2020-06-27 15:51:10
 
 #### 脚注
 
-[^注释]: this is how to use。
+[注释]: this is how to use。
 
 
 
