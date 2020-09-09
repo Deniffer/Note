@@ -76,3 +76,5 @@ abbrlink: 38496b88
 [handsome随机图片更换](https://www.codenong.com/cs106959084/)
 
 [emby](https://dxz.plus/posts/emby/)
+
+[hexo对katex支持](https://www.sail.name/2018/05/31/use-mathjax-in-hexo/)
